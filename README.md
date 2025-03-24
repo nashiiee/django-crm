@@ -36,3 +36,6 @@ A **Django-based Customer Relationship Management (CRM)** system designed to eff
 - Remove specific records  
 - Confirmation mechanisms  
 - Access control  
+
+#### Deployment Domain Name
+- https://nashiee.pythonanywhere.com/
